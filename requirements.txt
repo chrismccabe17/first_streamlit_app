@@ -1,4 +1,6 @@
 # requirements.txt
+pip install --upgrade v 23.0.1
+
 snowflake-connector-python
 
 # import snowflake.connector
