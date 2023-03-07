@@ -1,6 +1,5 @@
 # requirements.txt
-pip install --upgrade v 23.0.1
-
+import streamlit
 snowflake-connector-python
 
 # import snowflake.connector
